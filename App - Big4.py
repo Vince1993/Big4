@@ -12,7 +12,7 @@ Saves you money and you are out in nature.
 
 print("""Stop buying things:
 What do you really need?
-Food, accomodation, warmth, clothing
+Food, accomodation, warmth, clothing.
 """)
 
 print("""Avoid litter.
