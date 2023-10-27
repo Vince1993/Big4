@@ -15,12 +15,6 @@ What do you really need?
 Food, accomodation, warmth, clothing
 """)
 
-
-print("""Stop buying things:
-What do you really need?
-Food, accomodation, warmth, clothing
-""")
-
 print("""Avoid litter.
 Markets not supermarkets.
 Avoid plastics.
